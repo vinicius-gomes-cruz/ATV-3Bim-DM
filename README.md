@@ -4,9 +4,9 @@
 
 ### Produtos
 
-![Tela de Produtos](assets/image.png)
+![Tela de Produtos](frontend/assets/image.png)
 
 ### Movimentações
 
-![Tela de Movimentações](assets/image2.png)
+![Tela de Movimentações](frontend/assets/image2.png)
 
